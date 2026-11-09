@@ -39,8 +39,8 @@ I am a Computer Science student at Aarhus University, with a Bachelor's degree i
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorPuchacz/IgorPuchacz/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorPuchacz/IgorPuchacz/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorPuchacz/IgorPuchacz/IgorPuchacz/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorPuchacz/IgorPuchacz/IgorPuchacz/output/snake.svg" />
   <img src="https://raw.githubusercontent.com/IgorPuchacz/IgorPuchacz/output/snake.svg" />
 </picture>
 
