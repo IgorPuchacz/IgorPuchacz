@@ -24,24 +24,13 @@ I am a Computer Science student at Aarhus University, with a Bachelor's degree i
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=IgorPuchacz&theme=dark&hide_border=false" alt="GitHub streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=IgorPuchacz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=javascript" alt="Top languages" />
-
-</div>
-
-<br>
-
-<div align="center">
+<img src="https://streak-stats.demolab.com/?user=IgorPuchacz&theme=dark&hide_border=false&card_width=440&card_height=165" width="49%" alt="GitHub streak" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=IgorPuchacz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=javascript&card_width=440" width="49%" alt="Top languages" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorPuchacz/IgorPuchacz/main/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorPuchacz/IgorPuchacz/main/output/snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/IgorPuchacz/IgorPuchacz/main/output/snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/IgorPuchacz/IgorPuchacz/main/output/snake.svg" width="100%" />
 </picture>
 
 </div>
